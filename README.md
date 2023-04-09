@@ -1,2 +1,3 @@
-# BTLG_Releases_chime
-BTLG Builds for Chime
+# BTLG Builds for Chime
+
+Downloads will be pushed to releases
